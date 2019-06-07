@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameFirstDisplay" type="id" />
+    <item name="editNameFirstDisplay" type="id" />
+    <item name="addressDisplay" type="id" />
+    <item name="nameLastDisplay" type="id" />
+    <item name="editCityDisplay" type="id" />
+    <item name="cityDisplay" type="id" />
+    <item name="editAddressDisplay" type="id" />
+    <item name="stateDisplay" type="id" />
+    <item name="editStateDisplay" type="id" />
+    <item name="zipDisplay" type="id" />
+    <item name="editZipDisplay" type="id" />
+    <item name="editNameLastDisplay" type="id" />
+</resources>
